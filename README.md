@@ -5,4 +5,4 @@ My name is Than
 - 🦕 Interested in Software development, Game development and Dinosaur
 - ⚡ Looking for something cool to put in my profile
 
-Nice to meet you 🧡
+Nice to meet you ❤
