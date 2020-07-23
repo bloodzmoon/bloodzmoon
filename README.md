@@ -5,7 +5,7 @@ My name is Than
 - 🦕 Interested in Software development, Game development and Dinosaur
 - ⚡ Looking for something cool to put in my profile
 
-My favorite editor <img alt="vscode" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" height="40" align="center">  
+Favorite editor <img alt="vscode" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" height="40" align="center">  
 
 My skills <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="40" align="center"><img alt="css3" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="40" align="center"><img alt="js" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="40" align="center"><img alt="react" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="40" align="center">
 
