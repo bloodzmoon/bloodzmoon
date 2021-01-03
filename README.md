@@ -6,7 +6,7 @@
 My name is Than
 
 - 🖥 I'm a student at KMITL major in Computer engineering
-- 🦕 Interested in Software development, Game development and Dinosaur
+- 🐱‍👤 Interested in Software development and Cat
 - ⚡ Looking for something cool to put in my profile
 
 <p  align="center">
