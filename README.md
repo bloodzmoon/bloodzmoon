@@ -3,7 +3,7 @@
   Hello there
 </h1>
 
-My name is Than
+My name is Than (ธัญ)
 
 - 🖥 I'm a student at KMITL major in Computer engineering
 - 🐱‍👤 Interested in Software development and Cat
