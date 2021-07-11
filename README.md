@@ -5,8 +5,8 @@
 
 My name is Than (ธัญ)
 
-- 🖥 I'm a student at KMITL major in Computer engineering
-- 🐱‍👤 Interested in Software development and Cat
+- 🖥 Computer engineering student at KMITL
+- 💡 Interested in Software development and Cat
 - 💼 Intern at easysunday!
 - ⚡ Looking for something cool to put in my profile
 
