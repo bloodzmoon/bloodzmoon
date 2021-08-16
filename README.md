@@ -7,7 +7,6 @@ My name is Than (ธัญ)
 
 - 🖥 Computer engineering student at KMITL
 - 💡 Interested in Software development and Cat
-- 💼 Intern at easysunday!
 - ⚡ Looking for something cool to put in my profile
 
 <p align="center">
