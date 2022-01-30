@@ -7,7 +7,7 @@ My name is Than (ธัญ)
 
 - 🖥 Computer engineering student at KMITL
 - 💡 Interested in Software development and Cat
-- ⚡ Looking for something cool to put in my profile
+- ⚡ Looking for something cool to put on my profile
 
 <p align="center">
   <img alt="vscode" src="./assets/vscode.gif" height="50">  
